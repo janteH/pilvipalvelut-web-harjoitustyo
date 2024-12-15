@@ -9,4 +9,21 @@ Sovellus julkaistu [täällä](https://janteh.github.io/pilvipalvelut-webkehitys
 
 ### Responsiivisuus
 
-Testattu sivun responsiivisuutta tietokoneella, tabletilla ja mobiililla.
+Testattu sivun responsiivisuutta tietokoneella ja mobiililaitteella. Sivu skaalautuu selaimessa oikein mutta mobiilissa ei ole täysin responsiivinen.
+
+Testattu Chromella ja Edgellä. Ei havaittuja eroja sivun responsiivisuudessa. Sivusto toimii molemmissa selaimissa.
+
+### Sivujen latautumisaika
+
+Käytetty työkalua [PageSpeed Insights](https://pagespeed.web.dev/analysis/https-harjoitustyo-vercel-app/zpnd7dtp3q?form_factor=desktop)
+
+Mobiilissa havaittiin käyttämätöntä JavaScriptiä, joka hidastaa sovelluksen latausta.
+
+![Screenshot 2024-12-15 at 16 17 28](https://github.com/user-attachments/assets/905f4d7e-40b4-441e-8911-c2c582ebe278)
+
+Tietokoneella havaittiin samat ongelmat latauksessa.
+
+![Screenshot 2024-12-15 at 16 19 45](https://github.com/user-attachments/assets/b41ec9d1-9519-41fa-8843-a281e016e9d7)
+
+### Yhteenveto
+
