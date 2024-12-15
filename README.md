@@ -7,3 +7,6 @@ Sovellus julkaistu [täällä](https://janteh.github.io/pilvipalvelut-webkehitys
 
 ## Raportti
 
+### Responsiivisuus
+
+Testattu sivun responsiivisuutta tietokoneella, tabletilla ja mobiililla.
