@@ -27,6 +27,8 @@ Tietokoneella havaittiin samat ongelmat latauksessa.
 
 ### Yhteenveto
 
+Kyseessä on sovellus, joka hakee tietyn ruoka-annoksen nimen, kuvan ja ohjeen hakusanan perusteella.
+
 Sivustolla toimii tiedon haku api rajapinnalla. Sisältö vaihtuu, kun hakusanaa muutetaan. Tiedot päivittyvät eri tuotetta klikattaessa. Kirjautumislomakkeella ei ole toiminnallisia vaikutuksia - konsolissa kerrotaan tieto siitä, että kirjautuminen on onnistunut. 
 
 Sivusto on selkeä mutta ei kovin käyttäjäystävällinen etenkään mobiililaitteella.
