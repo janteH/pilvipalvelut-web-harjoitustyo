@@ -30,3 +30,5 @@ Tietokoneella havaittiin samat ongelmat latauksessa.
 Sivustolla toimii tiedon haku api rajapinnalla. Sisältö vaihtuu, kun hakusanaa muutetaan. Tiedot päivittyvät eri tuotetta klikattaessa. Kirjautumislomakkeella ei ole toiminnallisia vaikutuksia - konsolissa kerrotaan tieto siitä, että kirjautuminen on onnistunut. 
 
 Sivusto on selkeä mutta ei kovin käyttäjäystävällinen etenkään mobiililaitteella.
+
+Sivusto lakkasi toimimasta 150 apikutsun jälkeen. (Kutsuja 150 per päivä).
